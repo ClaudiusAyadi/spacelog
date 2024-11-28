@@ -10,7 +10,7 @@
 		"dev": "tsx watch src/index.ts"
 	},
 	"keywords": [],
-	"author": "Claudius A.",
+	"author": "Claudius A. <ayadiclaudius@gmail.com>",
 	"license": "ISC",
 	"devDependencies": {
 		"@types/clear": "^0.1.4",
