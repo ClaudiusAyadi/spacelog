@@ -1,0 +1,19 @@
+{
+	"compilerOptions": {
+		"baseUrl": ".",
+		"esModuleInterop": true,
+		"forceConsistentCasingInFileNames": true,
+		"importsNotUsedAsValues": "remove",
+		"module": "ESNext",
+		"moduleResolution": "Node",
+		"outDir": "dist",
+		"paths": {
+			"@/*": ["src/*"]
+		},
+		"skipLibCheck": true,
+		"strict": true,
+		"target": "ESNext"
+	},
+	"include": ["src/**/*"],
+	"exclude": ["node_modules"]
+}
